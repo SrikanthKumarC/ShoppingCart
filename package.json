@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
     "start" : "parcel index.html store.html team.html",
     "build" : "parcel build index.html store.html team.html"
